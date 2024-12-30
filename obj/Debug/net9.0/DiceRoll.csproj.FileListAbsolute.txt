@@ -1,0 +1,14 @@
+/Users/lisa/Documents/code/ms/DiceRoll/bin/Debug/net9.0/DiceRoll
+/Users/lisa/Documents/code/ms/DiceRoll/bin/Debug/net9.0/DiceRoll.deps.json
+/Users/lisa/Documents/code/ms/DiceRoll/bin/Debug/net9.0/DiceRoll.runtimeconfig.json
+/Users/lisa/Documents/code/ms/DiceRoll/bin/Debug/net9.0/DiceRoll.dll
+/Users/lisa/Documents/code/ms/DiceRoll/bin/Debug/net9.0/DiceRoll.pdb
+/Users/lisa/Documents/code/ms/DiceRoll/obj/Debug/net9.0/DiceRoll.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lisa/Documents/code/ms/DiceRoll/obj/Debug/net9.0/DiceRoll.AssemblyInfoInputs.cache
+/Users/lisa/Documents/code/ms/DiceRoll/obj/Debug/net9.0/DiceRoll.AssemblyInfo.cs
+/Users/lisa/Documents/code/ms/DiceRoll/obj/Debug/net9.0/DiceRoll.csproj.CoreCompileInputs.cache
+/Users/lisa/Documents/code/ms/DiceRoll/obj/Debug/net9.0/DiceRoll.dll
+/Users/lisa/Documents/code/ms/DiceRoll/obj/Debug/net9.0/refint/DiceRoll.dll
+/Users/lisa/Documents/code/ms/DiceRoll/obj/Debug/net9.0/DiceRoll.pdb
+/Users/lisa/Documents/code/ms/DiceRoll/obj/Debug/net9.0/DiceRoll.genruntimeconfig.cache
+/Users/lisa/Documents/code/ms/DiceRoll/obj/Debug/net9.0/ref/DiceRoll.dll
